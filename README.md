@@ -388,5 +388,5 @@ SELECT * FROM espectadores;
 
 ## ▶️ Para rodar o projeto
 
-Para rodar o projeto basta fazer download do software (pgAdmin4)[https://www.pgadmin.org/download/] e rodar o código fornecido nesta parta em uma 'Query Tool' dentro
+Para rodar o projeto basta fazer download do software [pgAdmin4](https://www.pgadmin.org/download/) e rodar o código fornecido nesta parta em uma 'Query Tool' dentro
 do database da raiz do projeto do software.
